@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ang-input-output-decorator';
+  testdemo ='demo testing';
+  public childdata='';
 }
